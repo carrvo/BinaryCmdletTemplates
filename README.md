@@ -1,6 +1,6 @@
 # Binary Cmdlet Templates
 
-Visual Studio templates to help accelerate the creation and development of [binary cmdlets](https://learn.microsoft.com/en-us/powershell/scripting/developer/cmdlet/cmdlet-overview?view=powershell-7.4).
+[Visual Studio templates](https://learn.microsoft.com/en-us/visualstudio/ide/how-to-create-project-templates?view=vs-2022) to help accelerate the creation and development of [binary cmdlets](https://learn.microsoft.com/en-us/powershell/scripting/developer/cmdlet/cmdlet-overview?view=powershell-7.4).
 Binary cmdlets differ from script cmdlets in that they are written in C# and compiled first;
 allowing them to leverage both compile-time type checking and the performance of compiled code.
 
